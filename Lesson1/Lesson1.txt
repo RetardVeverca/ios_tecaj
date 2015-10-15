@@ -1,0 +1,12 @@
+#1
+CloudKit - dostop in upravljanje z iCloud shrambo
+CoreTelephony - framework za informacije o klicnem operaterju, stanju trenutnega klica, ID klicatelja ...
+HomeKit - framework za komuniciranje z domačimi connected napravami (Nest, Hue, NestCam ...)
+PassKit - framework ki omogoča upravljanje Passbook appa - aplikacije, ki shranjuje uporabnikove karte, vstopnice, darilne kupone, kreditne kartice povezane z Apple Pay itd. Preko tega frameworka je mogoča tudi uporaba plačil preko Apple Pay sistema.
+
+#2
+Emulator posnema vsa stanja in procese (vključno z strojnimi omejitvami in zahtevami) sistema in deluje kot "nadomestek" originalnega sistema.
+Simulator modelira vsa stanja in procese originalnega sistema tako, da je njegovo končno stanje enako originalnemu sistemu.
+
+#3
+Za UI (skrivanje elementov, tranzicije, resize-i, sence, notification-i ...)
